@@ -1,3 +1,1 @@
 # react.js - study
-
-<hr>
